@@ -9,4 +9,14 @@ As of now, this project is a work in progress and requires further refinement. I
 My mission is to create a robust and efficient Multiple Object Tracking system that can handle a diverse range of scenarios. By combining cutting-edge algorithms and techniques, I aim to contribute to the advancement of MOT research and practical applications.
 
 ## Requirements
+- python
+- networkx
+- opencv-python
+- scipy
 
+## Results
+![image](https://github.com/1996JCZhou/Multiple-Objects-Tracking/blob/master/data/Snap_Shot.PNG)
+
+Welcome to see my videos in my Youtube channel for this project.
+https://www.youtube.com/watch?v=TjlJh2Vyx04 and
+https://www.youtube.com/watch?v=GMeyCBeQo3A
